@@ -2,7 +2,7 @@
 
 #### Steps to install Terraform in Kali Linux
 
-##### Step 1 : Terraform is distributed as a tarball on Github. Check the latest release on Terraform releases page before downloading below. [(https://github.com/hashicorp/terraform/releases)]
+##### Step 1 : Terraform is distributed as a tarball on Github. Check the [latest release](https://github.com/hashicorp/terraform/releases) on Terraform releases page before downloading below.
 
 ```
 TER_VER=`curl -s https://api.github.com/repos/hashicorp/terraform/releases/latest | grep tag_name | cut -d: -f2 | tr -d \"\,\v | awk '{$1=$1};1'`
