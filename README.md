@@ -1,4 +1,4 @@
-# Udemy Course - [Learn DevOps Infrastructure Automation With Terraform] (https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
+# Udemy Course - [Learn DevOps Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
 
 #### Steps to install Terraform in Kali Linux
 
